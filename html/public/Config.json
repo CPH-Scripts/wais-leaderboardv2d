@@ -1,0 +1,54 @@
+{
+    "languages": {
+        "leaderboard": "Leaderboard",
+        "panel": "Panel",
+
+        "kills": "Kills",
+        "deaths": "Deaths",
+        "kda": "KDA",
+        "rank": "Rank",
+        "country": "Country",
+        "first_login": "First Login",
+        "last_login": "Last Login",
+        "name": "Player Name",
+
+        "player": "Player",
+        "profile": "Profile",
+        "changing": "Changing",
+        "banner": "Banner URL",
+        "status": "Status Message",
+        "save": "Save",
+        "cancel": "Cancel",
+        "today": "Today"
+    },
+    "ranks": {
+        "Bronze": {
+            "kda": 0.0,
+            "color": "#B87333"  
+        },
+        "Silver": {
+            "kda": 1.5,
+            "color": "#C0C0C0" 
+        },
+        "Gold": {
+            "kda": 2.0,
+            "color": "#FFD700" 
+        },
+        "Platinum": {
+            "kda": 2.5,
+            "color": "#E5E4E2"  
+        },
+        "Diamond": {
+            "kda": 3.0,
+            "color": "#00FFFF" 
+        },
+        "Master": {
+            "kda": 3.5,
+            "color": "#800000" 
+        },
+        "GrandMaster": {
+            "kda": 4.0,
+            "color": "#FF4500" 
+        }
+    }
+}
